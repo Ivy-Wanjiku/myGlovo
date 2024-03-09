@@ -1,0 +1,144 @@
+#glovo{
+    display: flex;
+    gap: 7%;
+    margin-left: 12%;
+}
+
+#food{
+    margin-left: 12%;
+    padding-bottom: 7%;
+    gap: 15%;
+    
+}
+h1{
+    margin-left: 25%;
+}
+#button{
+    background-color: rgb(0, 160, 130);
+    border-radius: 25px;
+    height: 50px;
+    width: 250px;
+    color: white;
+    margin-left: 35%;
+}
+.app{
+    display: flex;
+    gap: 10%;
+    margin-left: 15%;
+}
+#together{
+    display: flex;
+    gap: 7%;
+    padding-left: 12%;
+}
+.shake{
+    padding-left: 30%;
+}
+.one{
+    height: 200px;
+    border-radius: 50%;
+}
+.two{
+    height: 200px;
+    border-radius: 50%;
+}
+.three{
+    height: 200px;
+    border-radius: 50%;  
+}
+.four{
+    height: 200px;
+    border-radius: 50%;
+}
+.five{
+    height: 200px;
+    border-radius: 50%;
+}
+.six{
+    height: 200px;
+    border-radius: 50%;
+}
+.seven{
+    height: 200px;
+    border-radius: 50%;
+}
+.eight{
+    height: 200px;
+    border-radius: 50%;
+}
+.nine{
+    height: 200px;
+    border-radius: 50%;
+}
+.ten{
+    height: 200px;
+    border-radius: 50%;
+}
+.eleven{
+    height: 200px;
+    border-radius: 50%;
+}
+#more{
+  background-color: rgb(255, 194, 68);
+   background-image: linear-gradient(255,194,68);
+width: auto;
+}
+.image-container {
+position: relative;
+display: inline-block;
+}
+.overlay {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-color: rgba(0, 0, 0, 0.5);
+opacity: 0;
+transition: opacity 0.3s ease;
+}
+.image-container:hover .overlay {
+opacity: 1;
+}
+.start{
+background-color: rgb(0, 160, 130);
+padding: 20px; 
+border-radius: 120px;
+border: solid 1px;
+margin-left: 80%;
+color: white;
+}
+#footer{
+display: flex;
+gap: 5%;
+}
+#mainfooter{
+background-color: rgb(29, 29, 29);
+color: white;
+padding-left: 10%;
+}
+#thika{
+text-align: center;
+background-color: rgb(255, 194, 68); ;
+
+}
+button{
+height: 60px;
+width: 9%;
+border:none;
+font-weight: bolder;
+border-radius: 10%;
+}
+#class{
+display: flex;
+
+}
+h1{
+font-weight: bolder;
+font-size-adjust: 20%;
+margin-left: 5%;
+
+}
+#delivery{
+margin-right: 10%;
+}
